@@ -6,7 +6,9 @@ body {
 
 .assignment {
     background-color: rgb(194, 223, 245);
-    display: flex;
+    display:flex;
+    padding:5px;
+    margin: 10px;
 
 }
 
