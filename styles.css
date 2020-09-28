@@ -4,6 +4,17 @@ body {
 
 }
 
+.assignment {
+    background-color: rgb(194, 223, 245);
+    display: flex;
+
+}
+
+.assignment img{
+    width: 750px;
+    padding: 30px;
+}
+
 h2 { 
     color: black;
 }
