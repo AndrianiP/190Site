@@ -1,11 +1,11 @@
 body {
-    background:rgb(224, 224, 224);
+    background:#FEDCF4;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
 .assignment {
-    background-color: rgb(194, 223, 245);
+    background-color: #d2eef7;
     display:flex;
     padding:5px;
     margin: 10px;
@@ -13,10 +13,29 @@ body {
 }
 
 .assignment img{
-    width: 750px;
-    padding: 30px;
+
+    width: 400px;
+    margin: 30px;
+    margin-right: 40px;
+    border: 20px solid #F9F9D3;
 }
 
 h2 { 
-    color: black;
+    color: #FEDCF4;
+    text-shadow: 2px 2px #777273;
+    font-size: 48px;
+}
+
+p{
+    margin-top: 55px;
+    margin-left: 20px;
+    color: #F9F9D3;
+    font-size: xx-large;
+    text-shadow: 2px 2px #8b8b6d;
+
+}
+
+a{
+    text-decoration:#FFFFFF;
+    font-size: 8px;
 }
