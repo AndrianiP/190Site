@@ -4,6 +4,12 @@ body {
 
 }
 
+.directory h1{
+    text-align: right;
+    font-size: 64px;
+
+}
+
 .assignment {
     background-color: #d2eef7;
     display:flex;
